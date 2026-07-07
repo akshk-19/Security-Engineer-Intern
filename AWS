@@ -1,0 +1,143 @@
+"What is Virtualization?
+Definition and benefits of virtualization.
+Virtual machines (VMs) and their use cases.
+Hypervisors and virtualization types.
+
+What is Cloud Computing?
+Understanding cloud models (IaaS, PaaS, SaaS).
+Key benefits of cloud computing: scalability, flexibility, and cost-efficiency.
+
+What is Amazon Web Services (AWS)?
+Overview of AWS and its global presence.
+Major AWS services and their applications.
+Advantages of using AWS for businesses.
+
+AWS Account Setup
+AWS free-tier services overview.
+
+AWS IAM Service
+Understanding IAM and their purpose.
+
+AWS Command Line Interface (CLI) Configuration
+Installing and configuring the AWS CLI.
+
+AWS Elastic Compute Cloud (EC2) Service
+Configuring security groups, key pairs, and instance types.
+Scaling and monitoring EC2 instances.
+
+AWS Elastic Block Store (EBS) Service
+Attaching and detaching EBS volumes to EC2 instances.
+EBS snapshot creation and management.
+
+AWS Amazon Machine Image (AMI)
+Creating reusable AMIs for EC2 instances.
+Sharing and copying AMIs across regions.
+
+AWS Elastic Load Balancer (ELB) and Auto Scaling Group (ASG) Service
+Load balancing traffic with ELB.
+Configuring auto-scaling policies for applications.
+High availability and fault tolerance with ASG.
+
+AWS Simple Storage Service (S3)
+Storing and managing objects in S3 buckets.
+Configuring bucket policies and permissions.
+Static website hosting and S3 versioning.
+AWS Relational Database Service (RDS)
+Setting up and managing RDS instances.
+Automated backups and database scaling.
+AWS DynamoDB Service
+Overview of DynamoDB as a NoSQL database.
+Configuring DynamoDB tables for high performance.
+AWS Lambda Function
+Creating serverless functions using Lambda.
+Triggering Lambda functions with AWS services.
+AWS CloudFormation Infrastructure as Code (IAC)
+Writing CloudFormation templates.
+Automating resource deployment with IAC.
+Managing stack updates and rollbacks.
+AWS Route 53 Service
+Domain registration and DNS management.
+Configuring custom domains and routing policies.
+Traffic management with geolocation and failover routing.
+AWS CloudFront Content Delivery Network (CDN)
+Accelerating content delivery globally.
+Configuring CloudFront distributions.
+Caching static and dynamic content.
+AWS Virtual Private Cloud (VPC)
+Setting up private and public subnets.
+Configuring route tables and Internet Gateways (IG).
+Managing networking with IPs, ports, and firewalls.
+AWS VPC Creation
+AWS Billing and Organization
+AWS Amplify - Full Stack Web Demonstration
+Deploying full-stack web applications with Amplify.
+Configuring backend resources (e.g., API, storage).
+CICD workflows for frontend and backend.
+AWS Elastic Container Service (ECS)
+Orchestrating containers using ECS.
+Configuring Fargate vs. EC2 launch types.
+Scaling containerized applications.
+
+AWS Elastic Kubernetes Service (EKS)
+Setting up Kubernetes clusters on AWS.
+Managing pods, nodes, and deployments.
+Using Kubernetes with AWS resources.
+
+What is Terraform?
+Overview of Terraform and its role in IAC.
+Writing Terraform configurations.
+
+Understanding DNS with Practical
+Understanding SSL/TLS Certificates and Encryption
+Working of SSL/TLS for secure communications.
+Generating and managing SSL certificates.
+Configuring HTTPS for web applications."									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
