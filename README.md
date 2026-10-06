@@ -6,13 +6,10 @@ A day-by-day log of my Security Engineer Internship at **Vibs Infosol Pvt. Ltd.*
 
 | Field | Detail |
 |---|---|
-| **Name** | Akshita Kushwaha |
-| **University** | Medi-Caps University |
-| **Batch** | 2024–28 |
+| **Name** | Akshita |
 | **Company** | Vibs Infosol Pvt. Ltd. |
 | **Role** | Security Engineer Intern |
 | **Duration** | 17 June – 17 July (1 month) |
-| **Reporting Manager** | Sarfaraj Sir |
 
 ## 📖 About This Tracker
 
